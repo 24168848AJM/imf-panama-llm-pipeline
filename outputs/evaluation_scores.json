@@ -1,0 +1,79 @@
+[
+  {
+    "component": "Executive summary",
+    "metric": "completeness",
+    "mean": 4.0,
+    "std": NaN,
+    "count": 1
+  },
+  {
+    "component": "Executive summary",
+    "metric": "consistency",
+    "mean": 5.0,
+    "std": NaN,
+    "count": 1
+  },
+  {
+    "component": "Executive summary",
+    "metric": "faithfulness",
+    "mean": 4.0,
+    "std": NaN,
+    "count": 1
+  },
+  {
+    "component": "Indicator extraction",
+    "metric": "accuracy",
+    "mean": 5.0,
+    "std": 0.0,
+    "count": 6
+  },
+  {
+    "component": "No-RAG baseline",
+    "metric": "groundedness",
+    "mean": 1.67,
+    "std": 1.63,
+    "count": 6
+  },
+  {
+    "component": "RAG answers",
+    "metric": "answer_relevance",
+    "mean": 4.33,
+    "std": 1.63,
+    "count": 6
+  },
+  {
+    "component": "RAG answers",
+    "metric": "context_relevance",
+    "mean": 5.0,
+    "std": 0.0,
+    "count": 6
+  },
+  {
+    "component": "RAG answers",
+    "metric": "groundedness",
+    "mean": 4.17,
+    "std": 1.6,
+    "count": 6
+  },
+  {
+    "component": "Section summaries",
+    "metric": "completeness",
+    "mean": 3.39,
+    "std": 0.5,
+    "count": 18
+  },
+  {
+    "component": "Section summaries",
+    "metric": "consistency",
+    "mean": 4.83,
+    "std": 0.71,
+    "count": 18
+  },
+  {
+    "component": "Section summaries",
+    "metric": "faithfulness",
+    "mean": 4.56,
+    "std": 0.78,
+    "count": 18
+  }
+]

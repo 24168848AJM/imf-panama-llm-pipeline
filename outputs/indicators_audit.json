@@ -1,0 +1,186 @@
+[
+  {
+    "field": "gdp_growth_forecast_pct",
+    "model": "gemini-3.5-flash-lite",
+    "retrieved_chunk_ids": [
+      1,
+      20,
+      73,
+      108,
+      121,
+      122,
+      123,
+      124
+    ],
+    "mean_retrieval_cosine": 0.749,
+    "schema_valid": true,
+    "raw_value": 4.5,
+    "unit": "percent",
+    "reference_period": "2025",
+    "is_projection": true,
+    "evidence_quote": "GDP growth is projected to increase to 4.5 percent in 2025 as the impact of the mine closure diminishes and non-mine economic sectors continue to grow.",
+    "source_chunk_id": 1,
+    "source_pages": [
+      2
+    ],
+    "status": "verified_programmatic",
+    "fallback_reason": "",
+    "judge_verdict": "correct",
+    "judge_score": 5,
+    "judge_reasoning": "The extracted value of 4.5 percent matches the IMF staff projection for 2025 as explicitly stated in the source text (e.g., Chunk 1 and Chunk 20).",
+    "final_value": 4.5
+  },
+  {
+    "field": "headline_inflation_rate_pct",
+    "model": "gemini-3.5-flash-lite",
+    "retrieved_chunk_ids": [
+      5,
+      6,
+      14,
+      50,
+      73,
+      75,
+      119,
+      121
+    ],
+    "mean_retrieval_cosine": 0.669,
+    "schema_valid": true,
+    "raw_value": -0.7,
+    "unit": "percent yoy",
+    "reference_period": "May 2025",
+    "is_projection": false,
+    "evidence_quote": "Core inflation has dropped in line with headline inflation and was also at -0.7 yoy in May 2025.",
+    "source_chunk_id": 14,
+    "source_pages": [
+      13
+    ],
+    "status": "verified_programmatic",
+    "fallback_reason": "",
+    "judge_verdict": "correct",
+    "judge_score": 5,
+    "judge_reasoning": "The extracted value of -0.7 percent yoy for May 2025 is directly supported by the text in Chunk 14.",
+    "final_value": -0.7
+  },
+  {
+    "field": "central_bank_policy_rate_pct",
+    "model": "gemini-3.5-flash-lite",
+    "retrieved_chunk_ids": [
+      6,
+      16,
+      66,
+      97,
+      101,
+      107,
+      112,
+      123
+    ],
+    "mean_retrieval_cosine": 0.686,
+    "schema_valid": true,
+    "raw_value": null,
+    "unit": "",
+    "reference_period": "",
+    "is_projection": false,
+    "evidence_quote": "",
+    "source_chunk_id": null,
+    "source_pages": null,
+    "status": "fallback_null",
+    "fallback_reason": "Panama is officially dollarized and does not have an independent central bank policy rate.",
+    "judge_verdict": "correct_null",
+    "judge_score": 5,
+    "judge_reasoning": "Panama uses the U.S. dollar as its currency and does not have an independent monetary policy or a central bank policy rate. The extracted value correctly identifies this as null.",
+    "final_value": null
+  },
+  {
+    "field": "non_performing_loan_ratio",
+    "model": "gemini-3.5-flash-lite",
+    "retrieved_chunk_ids": [
+      17,
+      18,
+      67,
+      68,
+      69,
+      86,
+      126,
+      127
+    ],
+    "mean_retrieval_cosine": 0.703,
+    "schema_valid": true,
+    "raw_value": 2.4,
+    "unit": "percent",
+    "reference_period": "2024Q3",
+    "is_projection": false,
+    "evidence_quote": "Nonperforming loans to total gross loans 2.2 2.5 3.1 3.3 2.0 2.0 2.3 2.5 2.6 2.4",
+    "source_chunk_id": 67,
+    "source_pages": [
+      49
+    ],
+    "status": "verified_programmatic",
+    "fallback_reason": "",
+    "judge_verdict": "correct",
+    "judge_score": 5,
+    "judge_reasoning": "The extracted value of 2.4 percent for 2024Q3 is explicitly listed in the table in Chunk 67.",
+    "final_value": 2.4
+  },
+  {
+    "field": "unemployment_rate_pct",
+    "model": "gemini-3.5-flash-lite",
+    "retrieved_chunk_ids": [
+      3,
+      5,
+      6,
+      39,
+      49,
+      50,
+      73,
+      124
+    ],
+    "mean_retrieval_cosine": 0.664,
+    "schema_valid": true,
+    "raw_value": 9.5,
+    "unit": "%",
+    "reference_period": "Oct 2024",
+    "is_projection": false,
+    "evidence_quote": "Total unemployment rate (Oct, 2024) 9.5",
+    "source_chunk_id": 5,
+    "source_pages": [
+      5
+    ],
+    "status": "verified_programmatic",
+    "fallback_reason": "",
+    "judge_verdict": "correct",
+    "judge_score": 5,
+    "judge_reasoning": "The extracted value of 9.5 percent for October 2024 is explicitly stated in the data tables in Chunk 5 and Chunk 49.",
+    "final_value": 9.5
+  },
+  {
+    "field": "tier_1_capital_ratio",
+    "model": "gemini-3.5-flash-lite",
+    "retrieved_chunk_ids": [
+      17,
+      64,
+      67,
+      68,
+      69,
+      126,
+      127,
+      144
+    ],
+    "mean_retrieval_cosine": 0.709,
+    "schema_valid": true,
+    "raw_value": 16.4,
+    "unit": "percent (Tier 1 capital to risk-weighted assets)",
+    "reference_period": "2024Q3",
+    "is_projection": false,
+    "evidence_quote": "Tier 1 capital to risk-weighted assets 14.3 16.3 17.0 16.9 16.4 17.1 16.8 16.1 15.9 16.4",
+    "source_chunk_id": 67,
+    "source_pages": [
+      49
+    ],
+    "status": "verified_programmatic",
+    "fallback_reason": "",
+    "judge_verdict": "correct",
+    "judge_score": 5,
+    "judge_reasoning": "The extracted value of 16.4 percent for 2024Q3 is explicitly listed in the table in Chunk 67 under Tier 1 capital to risk-weighted assets.",
+    "final_value": 16.4
+  }
+]

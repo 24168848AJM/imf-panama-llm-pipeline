@@ -1,0 +1,610 @@
+{
+  "report": {
+    "country_name": "Panama",
+    "report_title": "2025 ARTICLE IV CONSULTATION—PRESS RELEASE; STAFF REPORT; AND STATEMENT BY THE EXECUTIVE DIRECTOR FOR PANAMA",
+    "report_year": 2025,
+    "imf_country_report_number": "25/245"
+  },
+  "sections": [
+    {
+      "section_id": 0,
+      "title": "For Immediate Release",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "summary": "Panama's economy is recovering from the Cobre Panamá mine closure, with GDP growth projected at 4.5 percent in 2025. Inflation turned negative to -0.7 percent by May 2025. Downside risks include investment-grade loss and global policy uncertainty. IMF Executive Directors advise implementing the cabinet spending reduction plan to meet fiscal targets, maintaining fiscal sustainability under dollarization, enhancing the bank resolution framework, and continuing pension reforms to ensure long-term stability.",
+      "key_numbers": [
+        "4.5 percent in 2025",
+        "-0.7 percent year-on-year in May 2025",
+        "7.4 percent of GDP in 2024",
+        "2 percent of GDP by 2029"
+      ],
+      "word_count": 69,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary fails to mention the specific goal for the non-financial public sector fiscal deficit (2 percent of GDP by 2029).",
+          "It does not mention the need for further adjustments to the pension system beyond the current reform.",
+          "It omits the recommendation to continue implementing AML/CFT standards and to work toward SDDS subscription."
+        ],
+        "justification": "The summary is highly accurate regarding the provided figures and the general tone of the IMF report. It correctly captures the economic outlook and the core recommendations of the Executive Board. It is technically complete in its major themes, though it misses a few granular details from the Executive Board assessment.",
+        "faithfulness": 5,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 1,
+      "title": "Key Issues",
+      "pages": [
+        6,
+        7,
+        11
+      ],
+      "summary": "Following the Cobre Panamá mine closure, GDP growth slowed to 2.9 percent in 2024, but growth is projected to rebound to 4.5 percent in 2025. Downside risks include investment-grade loss and reform delays. IMF policy advice highlights that the revised Social and Fiscal Responsibility Law fiscal deficit ceilings are appropriate, revenue reforms are needed for priority investment, and further pension measures are key to long-term sustainability.",
+      "key_numbers": [
+        "2.9 percent in 2024",
+        "4.5 percent in 2025",
+        "4.0 percent of GDP in 2025",
+        "40 percent of GDP by 2040"
+      ],
+      "word_count": 66,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary fails to mention the inflation decline to -0.2 percent in 2024.",
+          "It omits the context regarding the Panama Canal returning to full capacity in 2024.",
+          "It ignores the positive upside risks and other downside risks mentioned (natural disasters, global policy uncertainty).",
+          "It lacks detail on the specific medium-term debt goals mentioned in the fiscal policy section."
+        ],
+        "justification": "The candidate provides an accurate, though highly condensed, summary of the provided source text. It correctly captures the GDP figures and the essence of the policy advice. However, it overlooks several key macroeconomic observations provided in the 'Background' and 'Outlook' sections, such as the deflationary environment and the canal's recovery, which are as relevant as the growth projections.",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 2,
+      "title": "Recent Developments",
+      "pages": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "summary": "In 2024, Panama's GDP growth slowed to 2.9 percent due to the Cobre Panamá mine closure, which also increased unemployment to 9.5 percent in October 2024. The Nonfinancial Public Sector fiscal deficit widened to 7.4 percent of GDP, prompting prompt corrective measures from the new government. Inflation dropped to -0.7 percent yoy in May 2025. The banking sector remains sound, well-capitalized, and liquid, with solvency at 15.0 percent and liquidity at 54.7 percent at end-December 2024.",
+      "key_numbers": [
+        "2.9 percent in 2024",
+        "9.5 percent in October 2024",
+        "7.4 percent of GDP",
+        "15.0 and 54.7 percent at end-December 2024"
+      ],
+      "word_count": 76,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [
+          "The statement that the new government's corrective measures were prompted by the 7.4 percent fiscal deficit is chronologically misaligned with the text; the government took measures in July 2024 to address the deterioration before the year-end total of 7.4 percent was finalized."
+        ],
+        "missing_points": [
+          "The summary omits the context that the 2024 fiscal deficit was influenced by one-off factors and accounting shifts, not just the mine closure.",
+          "The summary fails to mention that the banking sector's healthy profitability is aided by interest income from securities and fee/commission income, despite compressed interest margins."
+        ],
+        "justification": "The candidate accurately reflects the main economic indicators. However, it creates a slight causal inaccuracy regarding the timing of the fiscal measures (suggesting they were a response to the final 7.4% figure rather than an ongoing reaction to the first-half deterioration). It misses the nuance that the fiscal deficit figure is affected by specific accounting adjustments and one-offs.",
+        "faithfulness": 4,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 3,
+      "title": "Outlook And Risks",
+      "pages": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "summary": "GDP growth is projected to reach 4.5 percent in 2025. Downside risks include potential loss of investment grade, reform delays, social unrest, droughts affecting the Panama Canal, and Cobre Panama arbitration awards. According to Fund staff, if these risks materialize, fiscal policy must tighten, as dollarization leaves no monetary shock absorbers. Authorities broadly concurred with staff, aiming to meet fiscal targets and resolve mine issues.",
+      "key_numbers": [
+        "4.5 percent in 2025",
+        "0.7 percent yoy at the end of 2025",
+        "-0.9 percent of GDP",
+        "59.5 percent"
+      ],
+      "word_count": 65,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary does not mention the authorities' specific belief regarding the risk of social unrest, noting they see reduced risk compared to 2022-23 due to transparent policies and public order maintenance.",
+          "The summary omits the upside risks mentioned in the source, specifically potential benefits from the government's investment agenda (e.g., rail line to Costa Rica) and the reopening of the mine.",
+          "The summary fails to mention the context provided regarding the current account projection, specifically the impact of CFZ and EPZ imports."
+        ],
+        "justification": "The summary is highly accurate regarding the points it covers, correctly identifying the GDP growth figure, the specific risks listed in the source, and the structural constraints of dollarization. However, it is incomplete as it ignores the 'Authorities' Views' on social unrest, the identified upside risks, and the technical context of the current account, providing a one-sided view of the macro outlook.",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 4,
+      "title": "Policy Agenda",
+      "pages": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "summary": "The IMF report notes Panama’s important steps in pension reform, fiscal consolidation, and financial stability. However, risks remain, including optimistic 2025 budget revenue forecasts and potential fiscal pressures. Staff advises further revenue and expenditure reforms, strengthening public-owned enterprise governance, and addressing regional income disparities and educational outcomes. The banking system remains stable with strong solvency and liquidity buffers.",
+      "key_numbers": [
+        "40 percent of GDP by 2040",
+        "$144/month",
+        "2.0 percent of GDP by 2029",
+        "18 percent at end-2024"
+      ],
+      "word_count": 58,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary mentions 'fiscal consolidation' generally but omits the specific target mentioned in the source: reducing debt to 40 percent of GDP by 2040 (Page 22).",
+          "The summary does not mention the pension reform's specific change to the retirement age (the need to assess whether it should be raised is only mentioned as a future actuarial review) or the specific increase in employer contribution rates (Page 23).",
+          "The summary refers to 'regional income disparities' and 'educational outcomes' as staff advice, but fails to mention the specific proposed solutions like 'targeting instruction to students’ learning level' or 'multidimensional long-term regional development strategies' (Pages 33)."
+        ],
+        "justification": "The candidate summary is highly accurate and faithful to the source material provided, capturing the core essence of the IMF report on Panama. It correctly identifies the pension reform, the fiscal budget optimism vs. reality, the banking sector stability, and the structural reform needs. The omissions noted are minor details that do not undermine the validity of the summary, as a summary is intended to condense rather than replicate the report.",
+        "faithfulness": 5,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 5,
+      "title": "Staff Appraisal",
+      "pages": [
+        34,
+        35,
+        36
+      ],
+      "summary": "Panama has experienced rapid income convergence and a post-mine closure rebound, though downside risks remain prominent amid high global policy uncertainty. The IMF staff assesses fiscal targets under the revised SFRL as appropriate to ensure debt sustainability and rebuild market confidence. Key policy priorities include fully implementing spending cuts, advancing revenue and pension reforms, strengthening the bank resolution framework, and upholding AML/CFT standards to safeguard financial stability and support medium-term growth.",
+      "key_numbers": [
+        "4.5 percent in 2025",
+        "4 percent over the medium term",
+        "2.0 percent of GDP by 2029",
+        "40 percent by 2040"
+      ],
+      "word_count": 72,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary omits specific risks mentioned in paragraph 63, such as the loss of investment grade status and geopolitical headwinds.",
+          "The summary omits the need to address income inequality and regional disparities, which are mentioned as key factors for continued convergence in paragraph 70.",
+          "The summary omits the goal of improving the availability of macro-financial data (paragraph 70)."
+        ],
+        "justification": "The candidate summary is accurate but highly condensed. It captures the main fiscal and financial pillars of the IMF report but misses important qualitative recommendations regarding social inequality, data transparency, and specific economic risks.",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 6,
+      "title": "Figures And Tables",
+      "pages": [
+        38,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "summary": "Fiscal consolidation was partially reversed in 2024 due to declining revenues and rising expenditures. Public debt edged up in 2024 while remaining below its pandemic peak. The current account achieved balance as recovering services exports and rebounding tourism compensated for merchandise trade deficits. Meanwhile, the financial account remained positive despite declining FDI inflows, and the banking sector maintained robust soundness indicators.",
+      "key_numbers": [
+        "Real GDP (2007 prices) 2.9 percent (2024)",
+        "Total unemployment rate 9.5 percent (Oct, 2024)",
+        "Overall balance, including ACP -6.7 percent of GDP (2024)",
+        "Debt of Non-Financial Public Sector 57.6 percent of GDP (2024)"
+      ],
+      "word_count": 61,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [
+          "The claim that the current account 'achieved balance' in 2024 is misleading; the data (page 44, 50) indicates a current account figure of 1.9% of GDP, which is not a balanced state (zero).",
+          "The claim that the 'financial account remained positive' is contradicted by the data on page 50, which lists the financial account balance as -3.4% of GDP for 2024."
+        ],
+        "missing_points": [
+          "The summary fails to note the specific impact of the Canal transfers, which the source identifies as the only revenue component that did not decline in 2024.",
+          "The text omits the significant context provided in the source regarding the role of Panama Canal tolls recovering from a drought-induced dip."
+        ],
+        "justification": "The candidate summary makes several factual errors regarding the financial and current account balances, characterizing negative values as 'positive' or 'balanced'. It also provides a generalized overview that misses the specific detail regarding the Canal transfers, which the source explicitly highlights as a notable exception to the general revenue decline.",
+        "faithfulness": 2,
+        "completeness": 3,
+        "consistency": 2
+      }
+    },
+    {
+      "section_id": 7,
+      "title": "Annex I. Panama’s Pension System and Major Reform",
+      "pages": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "summary": "Panama's pension system faced insolvency risks driven by demographic pressures, a large informal economy, and a depleted defined benefit scheme. The March 2025 reform introduced the Single Capitalization System with Solidarity Guarantee, merged legacy reserves into a Single Solidarity Fund, increased employer contributions to 7.25 percent, and provided a government fiscal contribution of $966 million. The IMF notes the reform establishes vital guarantees while keeping the retirement age unchanged, with an actuarial review scheduled in six years.",
+      "key_numbers": [
+        "9.5 percent of GDP in 2025",
+        "$966 million",
+        "7.25 percent",
+        "9.2 percent"
+      ],
+      "word_count": 77,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [
+          "The summary claims an actuarial review is scheduled in six years. The source text mentions an actuarial review is scheduled, but does not specify that it is scheduled for 'six years' from now (it mentions 'in six years' in a footnote regarding life expectancy, but this is ambiguous as a timeline for the reform review)."
+        ],
+        "missing_points": [
+          "The summary fails to mention the one-year election window for current mixed-scheme participants to opt into the new system.",
+          "The summary omits the specific detail that self-employed workers are included in the new SUCGS system.",
+          "The summary does not mention the revised investment framework (e.g., the 75 percent cap on government bonds or the 10 percent allowance for alternative assets)."
+        ],
+        "justification": "The summary is mostly accurate regarding the core mechanics of the reform (SUCGS, contribution hikes, and fiscal contributions). However, it lacks depth regarding the transition stages for existing members and ignores the significant investment reform components included in the source text. The claim about the actuarial review timeline is a potential misinterpretation of the source's footnote.",
+        "faithfulness": 4,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 8,
+      "title": "Annex II. The Panama Canal E pansion",
+      "pages": [
+        59,
+        60,
+        61
+      ],
+      "summary": "The Panama Canal links Atlantic and Pacific trade, facilitating 6 percent of global maritime trade. A 2023-24 drought reduced lake water levels, forcing the Panama Canal Authority (ACP) to cut daily transits and maximum drafts. To mitigate future drought risks, the ACP is advancing the $1.6 billion Rio Indio Reservoir Project. The Canal remains a key economic engine, contributing significantly to GDP, government revenues, exports, and foreign direct investment.",
+      "key_numbers": [
+        "13,000 ships annually (2023-24)",
+        "$1.6 billion Rio Indio Reservoir Project",
+        "$5.2 billion (2016)",
+        "2.3 billion in FDI (2023)"
+      ],
+      "word_count": 69,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary mentions the Canal contributes to GDP, government revenues, and exports but fails to provide the specific statistics or percentages cited in the source (e.g., Canal's total contribution being 40% of GDP, 32% of services exports, or 25% of exports of services/goods).",
+          "It omits the specific role of the Canal in employment generation (55,000 jobs).",
+          "It does not mention that the Canal also provides drinking water for over 50 percent of the country."
+        ],
+        "justification": "The summary is accurate and well-written but is overly brief given the depth of economic data provided in the source text. It groups the Canal's economic impacts into general categories without including the specific figures that establish the 'key engine' status described in the source.",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 9,
+      "title": "Annex III. Strengthening Governance and Attracting FDI",
+      "pages": [
+        62
+      ],
+      "summary": "Panama's rapid economic convergence has historically been driven by large foreign direct investment inflows linked to strong governance and low crime. However, FDI inflows slowed significantly following the end of the construction boom and the Cobre Panama mine in 2019, and are expected to settle at 2 to 4 percent of GDP annually. To attract more FDI, the IMF advises strengthening governance, anti-corruption frameworks, judicial independence, judicial efficiency, appointment processes based on merit, and fiscal transparency.",
+      "key_numbers": [
+        "2-4 percent of GDP annually",
+        "7-9 percent of GDP pre-2019"
+      ],
+      "word_count": 76,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [
+          "The candidate states FDI inflows are 'linked to strong governance and low crime' as a historic driver; while the source says FDI inflows were associated with stronger governance and lower crime, the source explicitly links the 'progress in convergence' to FDI, not the FDI directly to governance."
+        ],
+        "missing_points": [
+          "The mention of the COVID-19 pandemic as a factor in the slowdown of FDI.",
+          "The historical comparison that previous FDI inflows were 7–9 percent of GDP.",
+          "The specific suggestion regarding public sector efficiency as a secondary outcome of merit-based appointments."
+        ],
+        "justification": "The candidate accurately captures the transition from historical high FDI to expected lower levels and the IMF's governance recommendations. However, it misattributes the causal link between governance and FDI slightly by implying governance attracted the FDI rather than governance being associated with the inflows that drove convergence. It also misses context regarding the pandemic and the scale of the pre-2019 FDI levels.",
+        "faithfulness": 4,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 10,
+      "title": "Annex IV. Implementation of Past IMF Policy Advice",
+      "pages": [
+        63,
+        64
+      ],
+      "summary": "In 2024, Panama's macroeconomic and financial policies largely aligned with past IMF advice despite a fiscal reset. The authorities adopted a revised SFRL, advanced revenue mobilization, exited the FATF grey list in October 2023, and progressed on FSAP recommendations, including stress testing and the Capital Conservation Buffer regulation. Data adequacy improved through GDP rebasing and the National Statistical Plan. Subsidies from 2022 were phased out, and minimum wages increased by 4.5 to 7 percent in 2024.",
+      "key_numbers": [
+        "4.5 to 7 percent in 2024",
+        "US$636.8"
+      ],
+      "word_count": 76,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary omits specific pending recommendations noted in the source, such as the comprehensive annual tax expenditure review.",
+          "It misses the additional FATF recommendations regarding the UBO registry and sectoral risk assessments for FinTech/virtual assets.",
+          "It fails to mention the plan for a capital surcharge for D-SIBs.",
+          "It excludes the mention of the BNP's progress on Safeguards Assessment recommendations and the hydric resources management plan."
+        ],
+        "justification": "The candidate summary is accurate and faithful to the source material provided. It captures the essence of the macroeconomic and financial policy updates. However, it is incomplete, as it glosses over several specific pending recommendations and secondary initiatives detailed in the source text (e.g., tax expenditure reviews, D-SIB capital surcharges, and environmental management plans).",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 11,
+      "title": "Annex V. Prospects and Risk Assessment Matrix",
+      "pages": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "summary": "The IMF report identifies major external and domestic risks, including trade shocks, sovereign debt distress, financial tightening, geo-economic fragmentation, cyberthreats, and Panama-specific challenges such as fiscal consolidation setbacks, social discontent, loss of investment grade status, and droughts. Expected impacts range from high to medium across short and medium terms. IMF staff recommend policy responses including maintaining liquidity and fiscal buffers, adhering to medium-term deficit targets under the SFRL, strengthening macroprudential and crisis frameworks, diversifying export markets, and ensuring targeted social support.",
+      "key_numbers": [],
+      "word_count": 81,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The candidate summary groups 'geo-economic fragmentation' as an external risk, whereas the source lists it as a distinct category (though its nature is global).",
+          "The summary fails to explicitly distinguish between the generic 'Social discontent' risk and the specific 'Social Discontent (Panama-specific)' risk detailed in the source.",
+          "The summary lists 'financial tightening' which is not the exact terminology used in the source (source uses 'Tighter financial conditions')."
+        ],
+        "justification": "The summary is highly accurate and synthesizes the provided risk assessment matrix well. It successfully captures the core risks and proposed policy responses. Minor omissions regarding specific nomenclature nuances do not detract from the overall accuracy of the summary.",
+        "faithfulness": 5,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 12,
+      "title": "Annex VI. External Sector Assessment",
+      "pages": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "summary": "In 2024, Panama's external position was assessed by IMF staff to be broadly in line with fundamentals and desirable policies. The headline current account swung to a surplus of 1.9 percent of GDP. External stability relies on financial stability and a favorable global environment, requiring policies to safeguard fiscal sustainability, reduce vulnerabilities, and build buffers. The Net International Investment Position stood at -89.4 percent of GDP at end-2024, and reserve levels are considered adequate.",
+      "key_numbers": [
+        "1.9 percent of GDP in 2024",
+        "-89.4 percent of GDP at end-2024",
+        "219.9 percent of GDP at end-2024",
+        "2.8 percent in 2024"
+      ],
+      "word_count": 74,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary omits the important context that the 1.9 percent of GDP current account surplus is largely driven by re-exports from the CFZ (Colon Free Zone) and EPZs (Export Processing Zones), which are volatile and not connected to the domestic economy.",
+          "The summary fails to mention that the current account deficit excluding the CFZ and EPZs was 0.4 percent of GDP.",
+          "The candidate does not mention the IMF's assessment that the REER (Real Effective Exchange Rate) gap is in the range of 0 to 6 percent undervaluation.",
+          "The summary neglects to mention that external stability also depends specifically on global interest rates and world trade.",
+          "The candidate misses that the NIIP figure of -89.4 percent is an improvement from -100 percent of GDP in 2021."
+        ],
+        "justification": "The summary is factually accurate based on the provided text, but it is incomplete. By failing to specify the drivers of the current account surplus (re-exports of free trade zones) and the exclusion of these zones in the domestic-focused deficit calculation, it provides a potentially misleading view of the headline 1.9 percent figure. It also ignores the REER gap assessment and the specific components of external stability.",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 13,
+      "title": "Annex VII. Debt Sustainability Analysis",
+      "pages": [
+        73,
+        74,
+        75,
+        77,
+        78,
+        79,
+        80
+      ],
+      "summary": "According to IMF staff, Panama faces a moderate risk of sovereign stress in the near and long term, and public debt is considered sustainable with high probability. Key risks include uncertainties regarding economic growth, potential copper mine arbitration cases, and the risk of losing investment-grade status. Policy advice emphasizes implementing a credible medium-term fiscal strategy aligned with fiscal rule targets and rebuilding fiscal buffers through enhanced revenue mobilization.",
+      "key_numbers": [
+        "57.6 percent of GDP in 2024",
+        "7.4 percent of GDP in 2024",
+        "11.4 percent of GDP in 2024",
+        "40 percent by 2040"
+      ],
+      "word_count": 68,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary omits the context that Panama serves as a regional US-dollar-based financial center, which contributes to elevated external financing needs and non-resident debt share.",
+          "The summary does not mention the role of specific financing instruments, such as global bonds and multilateral debt, in mitigating medium-term liquidity risks."
+        ],
+        "justification": "The candidate provides an accurate summary of the IMF staff analysis regarding Panama's sovereign stress risk, debt sustainability, key drivers, and policy advice. It correctly identifies the moderate risk level and the primary uncertainties mentioned in the source (growth, arbitration, and investment-grade status). It is faithful to the source text. It is complete regarding the core assessment but lacks minor specific details about the nature of the country's financial sector and specific financing structures noted in the source's commentary.",
+        "faithfulness": 5,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 14,
+      "title": "Annex VIII. The Panama Financial Sector Assessment Program",
+      "pages": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "summary": "The 2022-23 FSAP update for Panama assessed systemic risks and financial sector resilience. Key findings cover macroprudential policy enhancements, banking oversight, crisis management, and financial integrity. Progress includes updating stress test models, compiling household loan data, and launching a sustainable finance taxonomy. Recommendations focus on strengthening liquidity and capital standards, implementing payment systems legislation, and establishing robust deposit insurance and bank resolution frameworks.",
+      "key_numbers": [
+        "2011-12",
+        "2022-23",
+        "December 1, 2023",
+        "end-2025"
+      ],
+      "word_count": 63,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [
+          "The candidate claims that progress includes 'updating stress test models'. While the source confirms updates to credit risk and market stress modules, the candidate implies this is a broad 'progress' item rather than specific completions noted in the source."
+        ],
+        "missing_points": [
+          "The candidate fails to mention the key role of the 2024 Article IV Staff Report as the location for the FSAP findings.",
+          "The summary omits any mention of the specific work on Anti-Money Laundering/Combating the Financing of Terrorism (AML/CFT) and virtual assets, which constitutes a significant portion of the source text.",
+          "The candidate does not capture the distinction between 'completed' actions versus those still 'under evaluation' or 'pending legislation'."
+        ],
+        "justification": "The summary is generally accurate but lacks depth regarding the specific regulatory pillars (especially AML/CFT) and relies on high-level generalizations that overlook the source's nuance regarding implementation status (e.g., the reliance of several goals on pending legislation).",
+        "faithfulness": 4,
+        "completeness": 3,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 15,
+      "title": "Annex IX. Possible Tax Revenue Reform Measures for Panama",
+      "pages": [
+        87,
+        90
+      ],
+      "summary": "Panama's tax revenue to GDP ratio has declined to a low level, driven by extensive tax incentives, exemptions, low compliance, smuggling, and informal economic activity. The IMF staff assesses that a comprehensive reform is needed to broaden the base, improve compliance, and strengthen administration. Implementing these reforms could yield about 2.5 percent of GDP in revenue increases, primarily through removing exemptions and adjusting the VAT rate.",
+      "key_numbers": [
+        "7.7 percent of GDP as of 2023",
+        "2.5 percent of GDP",
+        "2 percent of GDP",
+        "1.5 percent of GDP"
+      ],
+      "word_count": 66,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The candidate does not mention that specific revenue gains of 2.5 percent of GDP were estimates associated with the 2023 Article IV consultation report.",
+          "The candidate omits that while the removal of exemptions and VAT adjustments are primary drivers, the source explicitly breaks down individual contributions (e.g., VAT/CIT exemptions yield ~2 percent, VAT rate change yields ~1.5 percent, excise taxes/PIT changes offer further incremental gains).",
+          "The source clarifies that the low revenue is not just about incentives, but also low tax rates themselves."
+        ],
+        "justification": "The candidate provides an accurate high-level summary but slightly misrepresents the magnitude and additive nature of the revenue gains. The source explicitly lists 2 percent of GDP from exemptions and 1.5 percent from the VAT rate adjustment; the candidate conflates these as the primary components of the 2.5 percent total, whereas the source lists a variety of measures that total significantly more than 2.5 percent if combined, or implies 2.5 percent is a specific potential package outcome.",
+        "faithfulness": 4,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 16,
+      "title": "Fund Relations",
+      "pages": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "summary": "According to the IMF report, Panama's financial system risks stem mainly from potential external shocks, such as global macroeconomic uncertainty, rising U.S. interest rates, and higher crude oil prices. Stress tests show the banking sector is well-capitalized, liquid, and resilient, though some pockets of weakness exist. The National Bank of Panama successfully implemented all safeguards assessment recommendations. Panama uses the U.S. dollar as primary payment and maintains an Article VIII exchange system free of restrictions.",
+      "key_numbers": [
+        "376.80 SDR Million Quota (As of May 31, 2025)",
+        "558.16 SDR Million Net cumulative allocation (As of May 31, 2025)",
+        "376.80 SDR Million Amount Approved for RFI (April 15, 2020)",
+        "2.70 SDR Million Projected Payments to Fund for 2025"
+      ],
+      "word_count": 75,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary fails to mention the FSAP assessment's specific findings regarding the system's reliance on foreign correspondent bank support.",
+          "The summary omits details about the specific improvements made by the National Bank of Panama following safeguards assessments, such as the legal framework for the FES and auditor selection criteria."
+        ],
+        "justification": "The candidate summary accurately reflects the provided source material. It correctly identifies the financial risks, the state of the banking sector, the status of the safeguards assessment, and the exchange system. While it is concise and misses some granular detail regarding technical assistance and specific reforms at the National Bank, it covers the primary requested points accurately without hallucination.",
+        "faithfulness": 5,
+        "completeness": 4,
+        "consistency": 5
+      }
+    },
+    {
+      "section_id": 17,
+      "title": "Statement By The Executive Director",
+      "pages": [
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "summary": "Panama's economic performance exceeded expectations in 2024 despite mining closures and droughts. Growth momentum resumes in 2025, with IMF staff revising forecasts to 4.5 percent. The authorities are committed to fiscal consolidation, aiming to reduce the non-financial public sector deficit to 4.0 percent of GDP by 2025. The financial system remains sound with robust capitalization and liquidity, while structural reforms prioritize water management for the Panama Canal and enhanced international transparency.",
+      "key_numbers": [
+        "4.5 percent (2025)",
+        "4.0 percent of GDP (2025)",
+        "US$ 65 billion",
+        "2.1 percent of GDP"
+      ],
+      "word_count": 71,
+      "attempts": 1,
+      "within_limit": true,
+      "judge": {
+        "unsupported_claims": [],
+        "missing_points": [
+          "The summary omits specific details on the fiscal consolidation measures, such as the 2.1 percent of GDP expense reduction plan or the role of the Social and Fiscal Responsibility Law.",
+          "The summary fails to mention the significant surge in FDI (28.9 percent) and the successful delisting of Panama as a high-risk jurisdiction by the European Commission.",
+          "The summary neglects the specific environmental and structural initiatives mentioned, such as the Rio Indio project or the Panamanian Carbon Exchange."
+        ],
+        "justification": "The candidate provides a concise and accurate overview of the provided text. All statements within the candidate text are supported by the source document. However, it is incomplete as it ignores substantial portions of the source regarding fiscal specifics, external investment, and specific structural/environmental reform projects.",
+        "faithfulness": 5,
+        "completeness": 3,
+        "consistency": 5
+      }
+    }
+  ]
+}

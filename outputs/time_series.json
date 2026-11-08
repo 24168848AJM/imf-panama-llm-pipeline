@@ -1,0 +1,285 @@
+{
+  "accepted": [
+    {
+      "name": "Real GDP growth",
+      "category": "gdp_growth",
+      "unit": "percent",
+      "points": [
+        {
+          "year": 2022,
+          "value": 10.8,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 7.4,
+          "is_projection": false
+        },
+        {
+          "year": 2024,
+          "value": 2.9,
+          "is_projection": false
+        },
+        {
+          "year": 2025,
+          "value": 4.5,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2029,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2030,
+          "value": 4.0,
+          "is_projection": true
+        }
+      ],
+      "grounding_rate": 1.0,
+      "source_chunk_ids": [
+        5
+      ]
+    },
+    {
+      "name": "Consumer price index (average)",
+      "category": "inflation",
+      "unit": "percent",
+      "points": [
+        {
+          "year": 2022,
+          "value": 2.9,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 1.5,
+          "is_projection": false
+        },
+        {
+          "year": 2024,
+          "value": 0.8,
+          "is_projection": false
+        },
+        {
+          "year": 2025,
+          "value": 0.4,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2029,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2030,
+          "value": 2.0,
+          "is_projection": true
+        }
+      ],
+      "grounding_rate": 1.0,
+      "source_chunk_ids": [
+        5
+      ]
+    },
+    {
+      "name": "Consumer price index (end-of-year)",
+      "category": "inflation",
+      "unit": "percent",
+      "points": [
+        {
+          "year": 2022,
+          "value": 2.1,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 1.9,
+          "is_projection": false
+        },
+        {
+          "year": 2024,
+          "value": -0.2,
+          "is_projection": false
+        },
+        {
+          "year": 2025,
+          "value": 0.7,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2029,
+          "value": 2.0,
+          "is_projection": true
+        },
+        {
+          "year": 2030,
+          "value": 2.0,
+          "is_projection": true
+        }
+      ],
+      "grounding_rate": 1.0,
+      "source_chunk_ids": [
+        5
+      ]
+    },
+    {
+      "name": "Private sector credit (12-month percent change)",
+      "category": "credit_growth",
+      "unit": "percent",
+      "points": [
+        {
+          "year": 2022,
+          "value": 6.4,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 3.5,
+          "is_projection": false
+        },
+        {
+          "year": 2024,
+          "value": 3.9,
+          "is_projection": false
+        },
+        {
+          "year": 2025,
+          "value": 5.0,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 6.1,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 6.1,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 6.1,
+          "is_projection": true
+        },
+        {
+          "year": 2029,
+          "value": 6.1,
+          "is_projection": true
+        },
+        {
+          "year": 2030,
+          "value": 6.1,
+          "is_projection": true
+        }
+      ],
+      "grounding_rate": 1.0,
+      "source_chunk_ids": [
+        73
+      ]
+    },
+    {
+      "name": "Deposit rate (6-month)",
+      "category": "policy_rate",
+      "unit": "percent",
+      "points": [
+        {
+          "year": 2022,
+          "value": 1.8,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 3.8,
+          "is_projection": false
+        },
+        {
+          "year": 2024,
+          "value": 4.3,
+          "is_projection": false
+        },
+        {
+          "year": 2025,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2029,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2030,
+          "value": 3.4,
+          "is_projection": true
+        }
+      ],
+      "grounding_rate": 1.0,
+      "source_chunk_ids": [
+        73
+      ]
+    }
+  ],
+  "rejected": []
+}

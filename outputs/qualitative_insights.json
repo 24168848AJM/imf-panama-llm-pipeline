@@ -1,0 +1,105 @@
+{
+  "strengths": [
+    {
+      "item": "Strong post-pandemic economic recovery",
+      "explanation": "In 2024, real GDP was 18 percent higher than in 2019, representing a compound annual growth rate of 3.4 percent.",
+      "source_pages": [
+        11
+      ]
+    },
+    {
+      "item": "Sound, well-capitalized, and liquid banking sector",
+      "explanation": "Aggregate solvency and liquidity ratios stand at 15.0 and 54.7 percent at end-December 2024, respectively, which are almost double the regulatory requirements.",
+      "source_pages": [
+        16
+      ]
+    },
+    {
+      "item": "Resilient external position and current account surplus",
+      "explanation": "The 2024 current account registered a surplus of 1.9 percent of GDP as a result of trade surpluses from the Colon Free Zone and export-processing zones.",
+      "source_pages": [
+        15
+      ]
+    },
+    {
+      "item": "Panama Canal full operational recovery",
+      "explanation": "Following 2023-24 restrictions, the Panama Canal returned to operating at full capacity in September 2024, handling an average of 36 ships per day.",
+      "source_pages": [
+        2,
+        12
+      ]
+    },
+    {
+      "item": "Subdued and negative inflationary environment",
+      "explanation": "Post-pandemic inflationary pressures have abated, with inflation turning negative to reach -0.7 percent year-on-year in May 2025.",
+      "source_pages": [
+        2,
+        13
+      ]
+    },
+    {
+      "item": "Adequate bank asset quality and provisions",
+      "explanation": "Non-performing loan ratios remain modest at 2.3 percent, and provisions amount to 102 percent of non-performing loans.",
+      "source_pages": [
+        16
+      ]
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "item": "Deterioration in public finances and fiscal deficit",
+      "explanation": "The 2024 non-financial public sector fiscal deficit reached 7.4 percent of GDP, up from a revised 3.9 percent of GDP in 2023.",
+      "source_pages": [
+        2,
+        3
+      ]
+    },
+    {
+      "item": "Adverse economic impact of the mine closure",
+      "explanation": "The closure of the Cobre Panamá copper mine contributed to GDP growth slowing from 7.3 percent in 2023 to 2.9 percent in 2024.",
+      "source_pages": [
+        2
+      ]
+    },
+    {
+      "item": "Rising public debt levels",
+      "explanation": "Debt of the non-financial public sector increased to 57.6 percent of GDP in 2024, up from 51.5 percent in 2023.",
+      "source_pages": [
+        5,
+        14
+      ]
+    },
+    {
+      "item": "Risk of losing investment-grade status",
+      "explanation": "Following considerable fiscal deterioration in 2024 and rating downgrades, Panama faces significant downside risks regarding the loss of investment grade.",
+      "source_pages": [
+        14,
+        20
+      ]
+    },
+    {
+      "item": "Vulnerabilities from international arbitration proceedings",
+      "explanation": "Arbitration proceedings over the Cobre Panamá closure could potentially result in large damages awards against the Panamanian State if negotiations are unsuccessful.",
+      "source_pages": [
+        20
+      ]
+    },
+    {
+      "item": "Significant regional income disparities",
+      "explanation": "Significant disparities persist between urban areas like Panama City and Colón and rural areas and comarcas that depend on lower-productivity agriculture and subsistence farming.",
+      "source_pages": [
+        33
+      ]
+    }
+  ],
+  "checks": {
+    "strengths": {
+      "n_returned": 6,
+      "within_5_to_7": true
+    },
+    "vulnerabilities": {
+      "n_returned": 6,
+      "within_5_to_7": true
+    }
+  }
+}

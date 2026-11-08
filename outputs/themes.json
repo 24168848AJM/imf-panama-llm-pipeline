@@ -1,0 +1,165 @@
+{
+  "method": "regex lexicon (per 10k words) + chunk-level dominant theme; optional LLM classifier",
+  "total_words": 31329,
+  "lexicon": {
+    "Inflation & Prices": [
+      "inflation",
+      "disinflation",
+      "deflation",
+      "consumer prices?",
+      "cpi",
+      "hicp",
+      "core inflation",
+      "price pressures?",
+      "price stability",
+      "price levels?",
+      "wage-price"
+    ],
+    "Interest Rates & Credit": [
+      "interest rates?",
+      "policy rates?",
+      "monetary policy",
+      "monetary tightening",
+      "credit growth",
+      "credit",
+      "lending",
+      "borrowing costs?",
+      "yields?",
+      "rate cuts?",
+      "rate hikes?",
+      "financing conditions"
+    ],
+    "Housing & Real Estate": [
+      "housing",
+      "house prices?",
+      "real estate",
+      "mortgages?",
+      "property prices?",
+      "commercial real estate",
+      "cre",
+      "residential",
+      "rents?",
+      "dwellings?"
+    ],
+    "Banking Capital & Liquidity": [
+      "capital ratios?",
+      "capital buffers?",
+      "capital adequacy",
+      "cet1",
+      "tier 1",
+      "bank capital",
+      "liquidity",
+      "lcr",
+      "nsfr",
+      "non-?performing loans?",
+      "npls?",
+      "provisions?",
+      "provisioning",
+      "deposits?"
+    ],
+    "Sovereign Debt": [
+      "public debt",
+      "government debt",
+      "sovereign",
+      "debt sustainability",
+      "debt-to-gdp",
+      "fiscal deficits?",
+      "deficits?",
+      "fiscal consolidation",
+      "gross financing needs?",
+      "debt service",
+      "government bonds?",
+      "nfps",
+      "non-?financial public sector",
+      "fiscal rule",
+      "fiscal responsibility",
+      "credit ratings?",
+      "investment grade"
+    ],
+    "Labor Market Dynamics": [
+      "labou?r markets?",
+      "unemployment",
+      "employment",
+      "wages?",
+      "wage growth",
+      "labou?r force",
+      "participation",
+      "vacanc(?:y|ies)",
+      "labou?r shortages?",
+      "jobs?"
+    ],
+    "Systemic Financial Risk": [
+      "systemic risks?",
+      "systemic",
+      "financial stability",
+      "contagion",
+      "macroprudential",
+      "stress tests?",
+      "spillovers?",
+      "interconnected(?:ness)?",
+      "non-?bank financial",
+      "nbfis?",
+      "cyber",
+      "financial sector risks?"
+    ]
+  },
+  "themes": [
+    {
+      "theme": "Inflation & Prices",
+      "mentions": 30,
+      "mentions_per_10k_words": 9.6,
+      "share_pct": 6.3,
+      "chunks_primary_lexicon": 9,
+      "chunks_primary_llm": 6
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "mentions": 63,
+      "mentions_per_10k_words": 20.1,
+      "share_pct": 13.3,
+      "chunks_primary_lexicon": 17,
+      "chunks_primary_llm": 6
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "mentions": 12,
+      "mentions_per_10k_words": 3.8,
+      "share_pct": 2.5,
+      "chunks_primary_lexicon": 5,
+      "chunks_primary_llm": 0
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "mentions": 84,
+      "mentions_per_10k_words": 26.8,
+      "share_pct": 17.8,
+      "chunks_primary_lexicon": 19,
+      "chunks_primary_llm": 27
+    },
+    {
+      "theme": "Sovereign Debt",
+      "mentions": 194,
+      "mentions_per_10k_words": 61.9,
+      "share_pct": 41.0,
+      "chunks_primary_lexicon": 49,
+      "chunks_primary_llm": 62
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "mentions": 34,
+      "mentions_per_10k_words": 10.9,
+      "share_pct": 7.2,
+      "chunks_primary_lexicon": 10,
+      "chunks_primary_llm": 4
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "mentions": 56,
+      "mentions_per_10k_words": 17.9,
+      "share_pct": 11.8,
+      "chunks_primary_lexicon": 12,
+      "chunks_primary_llm": 2
+    }
+  ],
+  "lexicon_vs_llm_agreement": 0.51
+}

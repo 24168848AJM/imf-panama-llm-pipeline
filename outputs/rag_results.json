@@ -1,0 +1,380 @@
+[
+  {
+    "query": "What does the IMF recommend regarding bank capital, liquidity buffers or macroprudential policy in Panama?",
+    "retrieved": [
+      {
+        "chunk_id": 37,
+        "pages": [
+          29,
+          30
+        ],
+        "cosine": 0.7573
+      },
+      {
+        "chunk_id": 128,
+        "pages": [
+          81
+        ],
+        "cosine": 0.7397
+      },
+      {
+        "chunk_id": 101,
+        "pages": [
+          68
+        ],
+        "cosine": 0.7391
+      },
+      {
+        "chunk_id": 107,
+        "pages": [
+          70
+        ],
+        "cosine": 0.7366
+      },
+      {
+        "chunk_id": 139,
+        "pages": [
+          92,
+          93
+        ],
+        "cosine": 0.7316
+      }
+    ],
+    "mean_cosine": 0.741,
+    "answer": "The authorities have advanced key 2023 FSAP recommendations by enacting a capital conservation buffer being phased in by 2026, planning D-SIB surcharges in 2025, addressing Basel Core Principles (BCP) gaps, planning to overhaul the bank-resolution framework, and weighing deposit insurance and a lender-of-last-resort. They are also enhancing macroprudential statistics, rolling out borrower-based tools, and refining their stress tests. Additionally, recommendations from the 2023 FSAP included establishing additional borrower-based macroprudential policy tools (such as caps on mortgage LTVs, DTI, or DSTI ratios) to limit vulnerabilities in the household segment, and developing remaining components of a solvency bank stress test model suite and a liquidity stress simulation model for banks.",
+    "cited_chunk_ids": [
+      37,
+      128
+    ],
+    "data_found": true,
+    "citations_within_retrieved": true,
+    "triad": {
+      "context_relevance": 5,
+      "groundedness": 4,
+      "answer_relevance": 5,
+      "reasoning": "The answer identifies the correct recommendations from the 2023 FSAP as detailed in Annex VIII. However, it frames these as current 'recommendations' while the source (Chunk 128) explicitly labels these as 'Completed' or 'Completed' implementation status. Furthermore, the answer repeats the list of items from the text that were already being enacted/developed, making it sound as if these are pending advice rather than ongoing or completed actions."
+    },
+    "baseline_answer": "I do not have access to Panama's latest IMF Article IV report or the specific text regarding bank capital, liquidity buffers, or macroprudential policy.",
+    "baseline_triad": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "reasoning": "The provided source contains significant information regarding IMF recommendations and actions taken in Panama related to capital, liquidity, and macroprudential policy (e.g., FSAP recommendations, Basel implementation, and macroprudential tools). The model failed to process the provided source and falsely claimed it did not have access to the document."
+    }
+  },
+  {
+    "query": "What are the main downside risks to the economic outlook?",
+    "retrieved": [
+      {
+        "chunk_id": 22,
+        "pages": [
+          21,
+          22
+        ],
+        "cosine": 0.7363
+      },
+      {
+        "chunk_id": 3,
+        "pages": [
+          3
+        ],
+        "cosine": 0.7356
+      },
+      {
+        "chunk_id": 9,
+        "pages": [
+          6
+        ],
+        "cosine": 0.6853
+      },
+      {
+        "chunk_id": 42,
+        "pages": [
+          34,
+          35
+        ],
+        "cosine": 0.6836
+      },
+      {
+        "chunk_id": 97,
+        "pages": [
+          65
+        ],
+        "cosine": 0.6836
+      }
+    ],
+    "mean_cosine": 0.705,
+    "answer": "The main downside risks to the economic outlook include the loss of investment-grade status, delays in implementing the reform agenda, natural disasters, and heightened global policy uncertainty. Additional key risks noted include a further rise in financing costs, potential headwinds from geopolitical developments, trade policy and investment shocks, and sovereign debt distress.",
+    "cited_chunk_ids": [
+      3,
+      9,
+      42,
+      97
+    ],
+    "data_found": true,
+    "citations_within_retrieved": true,
+    "triad": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "reasoning": "The answer identifies the main downside risks accurately. The first sentence directly quotes the primary risks listed in chunks 3 and 9. The second sentence incorporates additional risks (financing costs, geopolitical developments, trade policy/investment shocks, sovereign debt distress) which are explicitly mentioned in chunks 42 and 97. The answer is highly grounded and complete relative to the provided text."
+    },
+    "baseline_answer": "I am sorry, but the provided context does not contain information about Panama's latest IMF Article IV report or its downside economic risks.",
+    "baseline_triad": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "reasoning": "The provided source documents contain clear information regarding downside risks to the economic outlook (found in chunks 3, 9, and 42). The answer explicitly states that the context does not contain this information, which is factually incorrect and represents a failure to perform the requested extraction task."
+    }
+  },
+  {
+    "query": "What fiscal deficit path or consolidation does IMF staff recommend, and how will public debt evolve?",
+    "retrieved": [
+      {
+        "chunk_id": 97,
+        "pages": [
+          65
+        ],
+        "cosine": 0.7065
+      },
+      {
+        "chunk_id": 142,
+        "pages": [
+          96
+        ],
+        "cosine": 0.7048
+      },
+      {
+        "chunk_id": 26,
+        "pages": [
+          23,
+          24
+        ],
+        "cosine": 0.6994
+      },
+      {
+        "chunk_id": 121,
+        "pages": [
+          77
+        ],
+        "cosine": 0.6965
+      },
+      {
+        "chunk_id": 30,
+        "pages": [
+          25,
+          26
+        ],
+        "cosine": 0.6942
+      }
+    ],
+    "mean_cosine": 0.7,
+    "answer": "IMF staff assesses the government's new fiscal path—which aims to reduce the non-financial public sector (NFPS) fiscal deficit to 2.0 percent of GDP by 2029 through gradual and sustainable adjustment—as appropriate, noting it would ensure fiscal sustainability, enhance market confidence, and reduce financing costs. Under the authorities' path (where the deficit ceiling declines by 0.5 percent of GDP each year from 4.0 percent in 2025 to 1.5 percent from 2030 onward under the revised SFRL), staff assesses that public debt would remain sustainable with high probability and that the debt-to-GDP ratio is expected to steady and reduce down to 40 percent by 2040.",
+    "cited_chunk_ids": [
+      26,
+      121
+    ],
+    "data_found": true,
+    "citations_within_retrieved": true,
+    "triad": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "reasoning": "The answer accurately synthesizes the information from Chunk 26 and Chunk 121 regarding the NFPS fiscal deficit targets (2% by 2029; 0.5% annual reduction to 1.5% by 2030) and the projected debt-to-GDP path (40% by 2040). All claims are fully supported by the provided source text."
+    },
+    "baseline_answer": "I am sorry, but the provided context does not contain information regarding Panama's latest IMF Article IV report, the recommended fiscal deficit path, or the evolution of public debt.",
+    "baseline_triad": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "reasoning": "The model incorrectly stated that the context did not contain information about the fiscal deficit path or public debt evolution. The source chunks (specifically 142, 26, and 121) clearly describe the authorities' plan to reduce the NFPS fiscal deficit to 4.0 percent of GDP by 2025 and eventually to 1.5 percent by 2030, with a long-term goal of reaching a 40 percent debt-to-GDP ratio by 2040. IMF staff explicitly assessed this path as 'appropriate' in chunk 26."
+    }
+  },
+  {
+    "query": "What pension reform was adopted and what risks to the pension system remain?",
+    "retrieved": [
+      {
+        "chunk_id": 76,
+        "pages": [
+          52
+        ],
+        "cosine": 0.78
+      },
+      {
+        "chunk_id": 77,
+        "pages": [
+          52,
+          53
+        ],
+        "cosine": 0.7432
+      },
+      {
+        "chunk_id": 26,
+        "pages": [
+          23,
+          24
+        ],
+        "cosine": 0.7207
+      },
+      {
+        "chunk_id": 43,
+        "pages": [
+          35,
+          36
+        ],
+        "cosine": 0.7187
+      },
+      {
+        "chunk_id": 25,
+        "pages": [
+          22,
+          23
+        ],
+        "cosine": 0.7144
+      }
+    ],
+    "mean_cosine": 0.735,
+    "answer": "The 2025 pension reform created a Single Solidarity Fund—capitalized by merging the reserves of the legacy DB and mixed schemes and backed by an annual $966 million government transfer (which will increase annually by up to 4 percent)—to finance current and future benefits across all schemes. It also established a non-contributory solidarity pension component to improve the social safety net, obliged self-employed workers to participate with a 9.36 percent contribution of taxable income, and raised employer contribution rates from 4.25 percent to 7.25 percent in three one-point steps in 2025, 2027, and 2029 (while employee contributions remain at 9.25 percent). Additionally, flexible investment rules were introduced. Regarding risks and remaining challenges, the IMF staff notes that future parametric adjustments will be needed to ensure long-term sustainability, as part of the assets of the mixed scheme will now be used to pay pensions of the DB scheme. Further adjustments, such as reassessing and raising the currently low retirement age (at 57 for women and 62 for men), will be needed. Meanwhile, the authorities expect the reform to secure roughly 15 years of positive cash flows, encourage participation and formal employment, and boost asset returns through flexible investment rules.",
+    "cited_chunk_ids": [
+      25,
+      26,
+      43
+    ],
+    "data_found": true,
+    "citations_within_retrieved": true,
+    "triad": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "reasoning": "The answer is highly accurate and directly addresses the user's query using the provided source text. All specific figures regarding contribution rates, the government transfer amount, the timeline for employer contribution increases, and the specific pension reform components (Single Solidarity Fund, self-employed participation, etc.) are explicitly supported by Chunk 25. The identified risks (need for future parametric adjustments, retirement age concerns, and the use of mixed scheme assets to fund the DB scheme) are well-documented in Chunks 25, 26, and 43. No unsupported claims were found."
+    },
+    "baseline_answer": "I do not have access to Panama's latest IMF Article IV report or any specific context regarding pension reforms and their associated risks in Panama.",
+    "baseline_triad": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "reasoning": "The provided source contains significant information regarding the 2025 pension reform in Panama (merger of schemes, creation of the Single Solidarity Fund, contribution rate increases, etc.) and explicitly mentions the remaining risks (need for future parametric adjustments, potential need to raise the retirement age). The model failed to retrieve or synthesize this information, falsely claiming it lacked access to the report."
+    }
+  },
+  {
+    "query": "What were the assumptions or results of bank stress tests?",
+    "retrieved": [
+      {
+        "chunk_id": 128,
+        "pages": [
+          81
+        ],
+        "cosine": 0.6638
+      },
+      {
+        "chunk_id": 126,
+        "pages": [
+          80
+        ],
+        "cosine": 0.6513
+      },
+      {
+        "chunk_id": 98,
+        "pages": [
+          65,
+          66
+        ],
+        "cosine": 0.6343
+      },
+      {
+        "chunk_id": 18,
+        "pages": [
+          16,
+          17
+        ],
+        "cosine": 0.6315
+      },
+      {
+        "chunk_id": 127,
+        "pages": [
+          80
+        ],
+        "cosine": 0.6269
+      }
+    ],
+    "mean_cosine": 0.642,
+    "answer": "The SBP updated the probabilities of default (PD) of the credit risk module, put the market stress module in place, and performed sensitivity analyses on the liquidity module and granular credit risk based on macroprudential indicators, as part of developing remaining components of a solvency bank stress test model suite. Additionally, the SBP developed a liquidity stress simulation model for banks based on the FSAP template.",
+    "cited_chunk_ids": [
+      128
+    ],
+    "data_found": true,
+    "citations_within_retrieved": true,
+    "triad": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "reasoning": "The answer accurately identifies the SBP's actions in completing the components of the solvency bank stress test model suite (updating PD, implementing market stress module, and conducting sensitivity analyses) and the liquidity stress model as described in the source. These actions represent the procedural 'results' of the efforts to improve stress testing, although no specific numerical outcomes or test assumptions (like shock scenarios) are provided in the source text."
+    },
+    "baseline_answer": "I am sorry, but the provided context does not contain information regarding the assumptions or results of bank stress tests in Panama's latest IMF Article IV report.",
+    "baseline_triad": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "reasoning": "The provided context contains information in Chunk 128 explicitly discussing the 'solvency bank stress test model suite' and the 'liquidity stress simulation model', confirming these tools were developed or updated by the SBP. The answer incorrectly claims the information is missing."
+    }
+  },
+  {
+    "query": "When is inflation expected to return to the central bank's inflation target?",
+    "retrieved": [
+      {
+        "chunk_id": 9,
+        "pages": [
+          6
+        ],
+        "cosine": 0.6773
+      },
+      {
+        "chunk_id": 14,
+        "pages": [
+          13
+        ],
+        "cosine": 0.6726
+      },
+      {
+        "chunk_id": 20,
+        "pages": [
+          19,
+          20
+        ],
+        "cosine": 0.664
+      },
+      {
+        "chunk_id": 124,
+        "pages": [
+          79
+        ],
+        "cosine": 0.6617
+      },
+      {
+        "chunk_id": 121,
+        "pages": [
+          77
+        ],
+        "cosine": 0.661
+      }
+    ],
+    "mean_cosine": 0.667,
+    "answer": "DATA NOT FOUND",
+    "cited_chunk_ids": [],
+    "data_found": false,
+    "citations_within_retrieved": true,
+    "triad": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "reasoning": "The source text explicitly states that inflation is expected to remain at 2 percent over the medium term (Chunk 20). Since 2 percent is a standard target level for central banks, the answer 'DATA NOT FOUND' is factually incorrect as the information is present in the provided source."
+    },
+    "baseline_answer": "I am sorry, but the provided context does not contain information regarding Panama's latest IMF Article IV report or when inflation is expected to return to the central bank's inflation target.",
+    "baseline_triad": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "reasoning": "The provided text contains information about inflation projections (e.g., '2 percent over the medium term' in Chunk 20), but it does not mention a specific 'central bank inflation target' or a timeline for returning to one. Therefore, the answer correctly identifies that the specific information requested is not present in the context."
+    }
+  }
+]
