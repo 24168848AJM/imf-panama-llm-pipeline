@@ -1,0 +1,9 @@
+pypdf
+google-genai
+sentence-transformers
+faiss-cpu
+pydantic>=2
+pandas
+numpy
+matplotlib
+seaborn

@@ -1,0 +1,8 @@
+# Keep the written report private until the course ends (assignment rule)
+report/
+*.docx
+# Never commit secrets
+.env
+__pycache__/
+.ipynb_checkpoints/
+# NOTE: commit cache/ and outputs/ so the marker can reproduce results without an API key
