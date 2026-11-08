@@ -4,7 +4,7 @@ Assignment 1, *Data Analysis with AI* (7PAM2032). An end-to-end pipeline that tu
 Staff Report (PDF) into audited, machine-readable outputs and a 4-panel executive dashboard, using Gemini for
 extraction and an independent Gemini model as an LLM-as-a-Judge.
 
-**Assigned report:** Panama: 2025 Article IV Consultation (IMF Country Report No. 25/245, Aug 2025) · **SRN:** 24168848 · **Author:** Mohammed. Abdul. Jilani.
+**Assigned report:** Panama: 2025 Article IV Consultation (IMF Country Report No. 25/245, Aug 2025) · **SRN:** 24168848 · **Author:** Mohammed Abdul Jilani
 
 ## Pipeline
 
@@ -34,8 +34,8 @@ PDF ─► pypdf ─► clean (running headers/footers, line joins, NFKC) ─►
 To reproduce the exact reported numbers in Colab, clone the repo first so that `cache/` sits next to the notebook:
 
 ```python
-!git clone https://github.com/<user>/<repo>.git
-%cd <repo>
+  !git clone https://github.com/24168848AJM/imf-panama-llm-pipeline.git
+  %cd imf-panama-llm-pipeline
 ```
 
 ## Outputs (`outputs/`)
